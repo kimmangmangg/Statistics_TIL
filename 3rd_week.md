@@ -121,7 +121,7 @@
   cf. 스크래핑 : 웹 페이지에서 자신이 원하는 부분의 정보만 가져오는 것
 - Open API를 통해 정리된 데이터 제공 받거나, 코딩을 통해 원하는 데이터를 수집
 - 파이썬 : BeautifulSoup , Selenium 등 사용
-- 개발자 도구를 열어 웹사이트 HTML 구조를 확인하여 특정 위치에 해당되는 텍스트를 수집하는 방식 !
+- 개발자 도구를 열어 웹사이트 HTML 구조를 확인하여 특정 위치에 해당되는 텍스트를 수집하는 방식 !<br><br><br>
 
 
 # 09. 분석 환경 세팅하기
@@ -136,8 +136,6 @@
 <!-- 새롭게 배운 내용을 자유롭게 정리해주세요.-->
 
 # 9.1. 데이터 분석 언어
-<br>
-
 ### SAS(Statistical Analysis System)<br>
 - 대표적인 제품형 데이터 분석 솔루션. 프로그래밍 언어보다는 솔루션에 가까움
 - 역사가 깊은 상용 솔루션으로 신뢰도가 높음
@@ -162,7 +160,7 @@
 - 영상처리, 딥러닝, 고성능 게임 등은 C,C++ 사용
 - 시각화 측면에서는 R에 비해 구현이 복잡한 편<br><br>
 
-<img width="951" alt="Image" src="https://github.com/user-attachments/assets/89482aef-c4a4-4b6c-9302-c5a1fcdcd536" /><br><br>
+<img width="951" alt="Image" src="https://github.com/user-attachments/assets/89482aef-c4a4-4b6c-9302-c5a1fcdcd536" /><br>
 
 ### SQL(Structured Query Language)<br>
 - 관계형 데이터베이스 시스템에서의 데이터 관리 및 처리를 위한 언어
